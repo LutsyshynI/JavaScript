@@ -65,6 +65,6 @@ console.log(typeof c)
 
 let name=prompt("What is you name?");
 let surname=prompt("What is your surname?")
-let age=prompt("What is your age")
-console.log(!!name,!!surname,!!age)
+let age=+prompt("What is your age")
+console.log(name,surname,age)
 

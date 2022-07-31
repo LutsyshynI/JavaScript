@@ -74,17 +74,17 @@ console.log(thirdbook)
 
 // - Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password. Вивести в консоль пароль кожного користувача
 let users = [
-    user1 = {name: 'jhhlj', age: 23, password: 'dsfsfsrg'},
-    user2 = {name: 'jhhlj', age: 24, password: 'dhyjyj'},
-    user3 = {name: 'jhhlj', age: 25, password: 'yjyjyjyjyr'},
-    user4 = {name: 'jhhlj', age: 26, password: 'dhththth'},
-    user5 = {name: 'jhhlj', age: 27, password: 'dsdstht'},
-    user5 = {name: 'jhhlj', age: 28, password: 'ddsthtdht'},
-    user6 = {name: 'jhhlj', age: 29, password: 'jtjytht'},
-    user7 = {name: 'jhhlj', age: 30, password: 'tyuii'},
-    user8 = {name: 'jhhlj', age: 31, password: 'q3wregh'},
-    user9 = {name: 'jhhlj', age: 31, password: 'vfghyjuk'},
-    user10 = {name: 'jhhlj', age: 32, password: 'ert4rutjk'},
+    {name: 'jhhlj', age: 23, password: 'dsfsfsrg'},
+    {name: 'jhhlj', age: 24, password: 'dhyjyj'},
+    {name: 'jhhlj', age: 25, password: 'yjyjyjyjyr'},
+    {name: 'jhhlj', age: 26, password: 'dhththth'},
+    {name: 'jhhlj', age: 27, password: 'dsdstht'},
+    {name: 'jhhlj', age: 28, password: 'ddsthtdht'},
+    {name: 'jhhlj', age: 29, password: 'jtjytht'},
+    {name: 'jhhlj', age: 30, password: 'tyuii'},
+    {name: 'jhhlj', age: 31, password: 'q3wregh'},
+    {name: 'jhhlj', age: 31, password: 'vfghyjuk'},
+    {name: 'jhhlj', age: 32, password: 'ert4rutjk'},
 ];
 console.log(users[0].password);
 console.log(users[1].password);

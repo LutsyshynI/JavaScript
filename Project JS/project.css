@@ -1,0 +1,85 @@
+.mainDiv{
+    width: 100%;
+    /*border: solid red 1px;*/
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 2px;
+
+}
+.userBlock{
+    width: 49%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: darkblue solid 1px;
+    border-radius: 10px;
+    background: greenyellow;
+
+}
+/*User-Details*/
+
+.userDiv{
+    border: solid black 2px;
+    background: greenyellow;
+    border-radius: 10px;
+
+
+}
+.postofCurentUser {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.mainDivUD{
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    column-gap: 2%;
+    row-gap: 20px;
+    /*position: relative;*/
+}
+.elementBlockUD{
+    border: solid black 1px;
+    width: 18%;
+    height: 150px;
+    text-align: center;
+    background: #8bc34a;;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.titleButtonUD{
+    text-align: center;
+    /*position: absolute;*/
+
+
+}
+
+
+/*Post-Details*/
+.postDetaild{
+    border: solid black 2px;
+    border-radius: 10px;
+
+    background: greenyellow;
+}
+.postDetButton{
+    width: 90%;
+    margin-left: 5%;
+}
+.comDivPD{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1%;
+    row-gap: 20px;
+    margin-top: 20px;
+}
+.commentsBlock{
+    border: solid black 2px;
+    width: 23%;
+    background:#8bc34a ;
+}

@@ -211,3 +211,6 @@ console.log(find(arr, p));
 
 let cindirella = arr.find(value => p.findsize === value.footSize );
 console.log(cindirella);
+
+
+

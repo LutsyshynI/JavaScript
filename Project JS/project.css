@@ -1,4 +1,4 @@
-.mainDiv{
+.mainDiv {
     width: 100%;
     /*border: solid red 1px;*/
     display: flex;
@@ -7,7 +7,8 @@
     row-gap: 2px;
 
 }
-.userBlock{
+
+.userBlock {
     width: 49%;
     height: 100px;
     display: flex;
@@ -19,21 +20,23 @@
     background: greenyellow;
 
 }
+
 /*User-Details*/
 
-.userDiv{
+.userDiv {
     border: solid black 2px;
     background: greenyellow;
     border-radius: 10px;
 
 
 }
+
 .postofCurentUser {
     width: 90%;
     margin-left: 5%;
 }
 
-.mainDivUD{
+.mainDivUD {
     display: flex;
     margin-top: 20px;
     flex-wrap: wrap;
@@ -41,7 +44,8 @@
     row-gap: 20px;
     /*position: relative;*/
 }
-.elementBlockUD{
+
+.elementBlockUD {
     border: solid black 1px;
     width: 18%;
     height: 150px;
@@ -52,7 +56,8 @@
     flex-direction: column;
     justify-content: space-between;
 }
-.titleButtonUD{
+
+.titleButtonUD {
     text-align: center;
     /*position: absolute;*/
 
@@ -61,25 +66,28 @@
 
 
 /*Post-Details*/
-.postDetaild{
+.postDetaild {
     border: solid black 2px;
     border-radius: 10px;
 
     background: greenyellow;
 }
-.postDetButton{
+
+.postDetButton {
     width: 90%;
     margin-left: 5%;
 }
-.comDivPD{
+
+.comDivPD {
     display: flex;
     flex-wrap: wrap;
     column-gap: 1%;
     row-gap: 20px;
     margin-top: 20px;
 }
-.commentsBlock{
+
+.commentsBlock {
     border: solid black 2px;
     width: 23%;
-    background:#8bc34a ;
+    background: #8bc34a;
 }
